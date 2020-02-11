@@ -66,6 +66,11 @@
 
     }
 
+    .divcontainer {
+
+        align-items: center;
+    }
+
     .cabecera {
 
         display: flex;
