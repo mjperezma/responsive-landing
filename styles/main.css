@@ -56,16 +56,13 @@ body {
 
 @media all and (min-width: 768px) {
   .divcontainer {
-    align-items: center;
     font-size: 40px;
-    text-align: center;
+
   }
 
   .header {
-    display: flex;
     flex-direction: row;
     justify-content: space-between;
-    align-items: center;
     padding-top: 20px;
     padding-bottom: 20px;
   }
